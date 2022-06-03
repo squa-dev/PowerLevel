@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Powerlvl.gg is a website that collects information from the patch notes of games and presents them quickly and efficiently for regular gamers.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Dependencies
+	 Ruby: v3.0.1
+	 Rails: v6.1.4
+      - puma ~> 5.0
+      - sqlite3 ~> 1.4
+      - webpacker ~> 5.0
+      - simple_form ~> 5.1.0
